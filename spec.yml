@@ -2,7 +2,6 @@
     "ending_hour": "22",
     "starting_hour": "06",
     "style-event-status-cancelled": true,
-    "tab": "week",
     "tabs": [
         "week"
     ],
