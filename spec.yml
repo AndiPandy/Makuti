@@ -13,7 +13,7 @@
         "https://calendar.google.com/calendar/ical/91e6f04a17964e4ea826e9eaec2f4e8e9a1e2f32b47b61a4394cdf8dcc5870ec%40group.calendar.google.com/public/basic.ics"
     ]
     "css": "
-        .fc-event { width: 100% !important; }
+        .event { width: 100% !important; }
     "
     
 }
