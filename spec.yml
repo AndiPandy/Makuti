@@ -14,6 +14,7 @@
     ]
     "css": "
         .event { width: 100% !important; }
+        .event .event-time { display: none; }
     "
     
 }
